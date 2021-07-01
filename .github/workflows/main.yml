@@ -22,8 +22,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          external_repository: <username>/<username>.github.io
+          external_repository: alessandro23pellizzari/alessandro23pellizzari.github.io
           publish_dir: ./public
-          user_name: <username>
-          user_email: <username@email.com>
+          user_name: Alessandro Pellizzari
+          user_email: alessandro23pellizzari@gmail.com
           publish_branch: master
