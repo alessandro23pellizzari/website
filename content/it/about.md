@@ -19,6 +19,8 @@ development and security best practices.
   C#, C++, Swift, Python
 - Developed, secured and deployed enterprise applications
 - Code Automation ([Gitlab pipelines](https://docs.gitlab.com/ee/ci/pipelines/))
+- Docker
+- ERP and departmental systems integration
 - SQL Databases management (Microsoft SQL Server, Postgresql, Sqlite)
 - Good knowledge of the various processes to develop quality software
 - Deep knowledge and understanding of the functioning of computer systems
