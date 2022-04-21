@@ -132,20 +132,20 @@ url = "about/"
 # weight = 5
 # url = "contact/"
 
-[languages.it]
-languageName = ":it:"
-title = "Alessandro Pellizzari"
+# [languages.it]
+# languageName = ":it:"
+# title = "Alessandro Pellizzari"
 
-[languages.it.params]
-author = "Alessandro Pellizzari"
-info = ["Full Stack Developer", "Appassionato di tè 🍵"]
-description = "Sito personale di Alessandro Pellizzari"
-keywords = "developer,personal"
+# [languages.it.params]
+# author = "Alessandro Pellizzari"
+# info = ["Full Stack Developer", "Appassionato di tè 🍵"]
+# description = "Sito personale di Alessandro Pellizzari"
+# keywords = "developer,personal"
 
-[[languages.it.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+# [[languages.it.menu.main]]
+# name = "About"
+# weight = 1
+# url = "about/"
  
 # [[languages.it.menu.main]]
 # name = "Progetti"
