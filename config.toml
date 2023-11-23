@@ -76,7 +76,7 @@ customJS = []
 childsrc = ["'self'"]
 fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
 formaction = ["'self'", "https://api.web3forms.com/submit", "https://web3forms.com/success"]
-framesrc = ["'self'"]
+framesrc = ["'self'", "https://newassets.hcaptcha.com/"]
 imgsrc = ["'self'"]
 objectsrc = ["'none'"]
 stylesrc = [
@@ -85,10 +85,10 @@ stylesrc = [
   "https://fonts.googleapis.com/",
   "https://cdn.jsdelivr.net/"
 ]
-scriptsrc = ["'self'", "'unsafe-inline'", "https://www.google-analytics.com", "https://web3forms.com/client/script.js"]
+scriptsrc = ["'self'", "'unsafe-inline'", "https://www.google-analytics.com", "https://web3forms.com/client/script.js", "https://js.hcaptcha.com/1/api.js"]
 prefetchsrc = ["'self'"]
 # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
-connectsrc = ["'self'", "https://www.google-analytics.com"]
+connectsrc = ["'self'", "https://www.google-analytics.com", "https://newassets.hcaptcha.com/captcha/v1/655b55f/static/i18n/it.json"]
 
 [taxonomies]
 category = "categories"
