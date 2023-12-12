@@ -1,34 +1,31 @@
 # Professional Profile
 
-I am a highly competent IT professional with track record in mobile development,
-full stack web development and database management. I have strong technical
-skills as well as good interpersonal skills, enabling me to fit and work
-together in a team to reach goals and resolving problems and challenges that may
-arise. I am an highly competitive person, always ready learn and expand my
-knowledge in order to grow and further improve my skills. I'm always searching
-for solutions that solves effectively business requirements, while following
-development and security best practices.
+I am a highly competent developer and IT professional with experience in web
+development, backend development, mobile development, database management and
+application integrations. I have strong technical skills as well as good
+interpersonal skills, enabling me to fit in any team and work both on the
+technical and functional tasks. I am a highly competitive person, always ready
+to learn and expand my knowledge to grow and further improve my skills. Seeking
+to make new experiences on different fields and take on new challenges.
 
 ## Core skill & Achievements
 
-- Web applications development, both front-end (Html, Css, Javascript,
-  [React](https://it.reactjs.org)) and backend (Node.js, in particular with
-  [Nestjs](https://nestjs.com) and Java with [Spring](https://spring.io))
-- Mobile development with [Flutter](https://flutter.dev), iOS and Android
-- Knowledge of programming languages such as Typescript, Javascript, Dart, Java,
-  C#, C++, Swift, Python
-- Developed, secured and deployed enterprise applications
-- Code Automation ([Gitlab pipelines](https://docs.gitlab.com/ee/ci/pipelines/))
-- Docker
-- ERP and departmental systems integration
-- SQL Databases management (Microsoft SQL Server, Postgresql, Sqlite)
-- Good knowledge of the various processes to develop quality software
-- Deep knowledge and understanding of the functioning of computer systems
-- Networking
-- Machine learning
-- Distributed systems
-- Problem solving
-- Team work
+- Full stack applications development with front-end (Html, Css, Javascript,
+  [Reactjs](https://react.dev), [Flutter](https://flutter.dev)) and backend
+  ([Node.js](https://nodejs.org/en), [NestJS](https://nestjs.com),
+  [Spring](https://spring.io)).
+- Programming languages: Java, Dart, Typescript & Javascript, C#, C++, Swift,
+  Python.
+- Mobile development with [Flutter](https://flutter.dev), iOS and Android.
+- Version control tools like git.
+- Container technologies such as [Docker](https://www.docker.com).
+- SQL databases such as Sql Server, PostgreSql.
+- Applications integrations with Infor ION.
+- Advanced knowledge of security algorithms and protocols such as Tls, Oauth2.
+- Strong foundation on basic and advanced Computer Science concepts.
+- Machine Learning.
+- Soft skills such as Analysis and Decision Making, Teamwork, Openness,
+  Negotiation and Customer Service.
 - Great knowledge of the English language and technical English
 
 ## Education
@@ -40,17 +37,27 @@ development and security best practices.
 - English B1 P.E.T certificate
 - Graduated in 2013 at the ITIS De Pretto, Schio in Electrotechnic
 
+## Languages
+
+- Italian, native language.
+- English language professional working proficiency.
+
 ## Work Experience
 
-- Working as a Full stack developer at Amer S.p.a from 2019 to now, where I had
-  the opportunity to work with a lot of different technologies ranging from
-  mobile development to full-stack web applications. I'm also partecipating in
-  the current ERP project as the IT Stream Lead Integragrion.
-- Six months stage at Amer S.p.a as a Software Developer in 2019.
+### Amer S.p.A., Valdagno, VI
 
-## Coming soon 👀
+#### Developer & IT Stream Lead Integration | September 2019 - now
 
-- Kubernetes
+- Developed full-stack secure, authenticated, containerized, business critical
+  applications that managed the manufacturing process, collected and displayed
+  high amounts of data.
+- Developed mobile applications to connect via Ble to manufactured products to
+  display products data, manage product’s information and interact with them.
+- Managed and interfaced ERP and business applications to allow them to exchange
+  data in a secure, authenticated, modular and decoupled way.
+- Participated in meetings and interacted directly with business to gather
+  requirements once the high-level specifications were set.
+- Level 1 support for ERP fields of competence.
 
 ## Hobbies
 
